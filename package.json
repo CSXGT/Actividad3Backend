@@ -13,7 +13,8 @@
     "express": "^4.18.2",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "parser": "^0.1.4"
   },
   "description": "Actividad 2.1 realizada por Cristhofer Solarte, Verónica Parra, Henry Hernández. Servidor de base de datos para Campamento de Robótica.",
   "main": "app.js",
